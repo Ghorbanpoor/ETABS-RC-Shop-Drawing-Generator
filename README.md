@@ -222,7 +222,7 @@ This provides several advantages:
 To run the project in GitHub Codespaces:
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/Ghorbanpoor/ETABS-RC-Shop-Drawing-Generator.git
 cd ETABS-RC-Shop-Drawing
 
 python -m pip install --upgrade pip
